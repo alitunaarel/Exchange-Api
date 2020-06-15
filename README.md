@@ -2,7 +2,7 @@
 
 ## You can convert one currency into another using an exchange rate. For example, an exchange rate of 15 Mexican Pesos to one US dollar means that you could convert 15 Mexican Pesos into one US dollar – or one US dollar into 15 Mexican Pesos.
 
-## Here is (The Project)[exchange-api.netlify.app]
+## Here is [The Project](exchange-api.netlify.app). <----- Click
 
 ================
 
